@@ -25,7 +25,7 @@ Me chamo Raiane Fernandes, tenho 16 anos e sou natural de São Paulo. Estou curs
 ### Me siga no instagram:
 [Instagram](https://www.instagram.com/raif_ernandes)
 
-![Instagram](https://github.com/raif_ernandes/raifernandesz/blob/main/instagram.png?raw=true)
+
 
 
             
