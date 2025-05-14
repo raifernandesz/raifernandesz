@@ -20,7 +20,6 @@ Me chamo Raiane Fernandes, tenho 16 anos e sou natural de São Paulo. Estou curs
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=blue"
-            
 ### Me siga no instagram:
 [Instagram](https: //www.instagram.com/raif_ernandes)
 
