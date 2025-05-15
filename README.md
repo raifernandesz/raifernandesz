@@ -4,7 +4,7 @@
 
 
 
-Me chamo Raiane Fernandes e sou natural de São Paulo. Estou cursando o último ano do ensino médio. Atualmente, estou cursando programação em pyhton 
+Me chamo Raiane Fernandes e sou natural de São Paulo. Estou cursando o último ano do ensino médio. Atualmente, estou cursando programação em pyhton.
 
 Codificando sonhos em realidade ☁️💻 | #DevLife
 Café + Código = Felicidade ☕️❤️
