@@ -16,9 +16,7 @@ Me chamo Raiane Fernandes, tenho 16 anos e sou natural de São Paulo. Estou curs
 <br>
 <div align="center">
   
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolimaa29&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardolimaa29&theme=tokyonight" alt="Github estatísticas"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardolimaa29&theme=tokyonight" alt="Github estatísticas"/>
 
 </div>
 
