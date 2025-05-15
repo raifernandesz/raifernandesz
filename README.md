@@ -2,9 +2,12 @@
 
 <h1># 🎶 raifernandesz</h1>
 
-**`Programadora pyhton`**
 
-Me chamo Raiane Fernandes, tenho 16 anos e sou natural de São Paulo. Estou cursando o ensino médio, . Atualmente, estou cursando programação de pyhton e já tenho curso de administração financeira. Sou apaixonada por tecnologia e na música.
+
+Me chamo Raiane Fernandes e sou natural de São Paulo. Estou cursando o último ano do ensino médio. Atualmente, estou cursando programação em pyhton 
+Codificando sonhos em realidade ☁️💻 | #DevLife
+
+Café + Código = Felicidade ☕️❤️
 
 <p align="left">
  <h1># 🌐 Socials:</h1>
