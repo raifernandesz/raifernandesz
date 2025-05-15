@@ -1,13 +1,13 @@
 
 
-# 🎶 raifernandesz
+<h1># 🎶 raifernandesz</h1>
 
 **`Programadora pyhton`**
 
 Me chamo Raiane Fernandes, tenho 16 anos e sou natural de São Paulo. Estou cursando o ensino médio, . Atualmente, estou cursando programação de pyhton e já tenho curso de administração financeira. Sou apaixonada por tecnologia e na música.
 
 <p align="left">
- # 🌐 Socials:
+ <h1><# 🌐 Socials:</h1>
  
   <a href="https://www.instagram.com/ricardorlima_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/PXd5WrTh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
